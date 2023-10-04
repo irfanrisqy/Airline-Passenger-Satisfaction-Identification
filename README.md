@@ -1,1 +1,3 @@
 # Airline-Passenger-Satisfaction-Identification
+
+This project centers on analyzing an airline passenger satisfaction dataset from Kaggle.com, with a primary goal of constructing a classification model that not only accurately discerns passenger satisfaction but also aims for an extraordinary achievement: achieving a prediction accuracy score exceeding 95%. The project's ultimate mission is to provide invaluable insights to the airline company, enabling them to enhance passenger satisfaction and rectify service aspects that contribute to customer dissatisfaction with unprecedented precision and effectiveness.
